@@ -39,6 +39,7 @@ body{
     box-shadow: 10px 10px 40px gray;
     border-radius: 5%;
 }
+
 .area{
     background-color: rgb(211, 186, 186);
     text-align: left;
@@ -89,4 +90,7 @@ body{
 }
 #comot{
     color: #d9d9d9;
+}
+.elemeant img{
+    width: 20%;
 }
