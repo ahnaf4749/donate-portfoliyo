@@ -2,14 +2,14 @@ body{
     font-family: 'Lobster', cursive;
     margin: 0%;
 }
-.dhaka{
+.main{
     text-align: center;
     background-image: url(images/donation7.jpg);
     height: 100px;
     padding: 250px;
     color: white;
 }
-.rangpur{
+.top-bar{
     text-decoration:none;
     background-image: linear-gradient(yellow, tomato);
     padding: 10px 40px;
@@ -20,7 +20,7 @@ body{
 .containar{
     display: flex;
 }
-.khulna{
+.top-middle{
     width: 7%;
     margin: 5%;
     box-shadow: 10px 10px 50px gray;
@@ -29,7 +29,7 @@ body{
     border-radius: 10%;
 
 }
-.sylet{
+.top_low{
     text-align: center;
     padding: 5%;
 }
@@ -37,6 +37,7 @@ body{
     margin-right: 3%;
     padding: 3%;
     box-shadow: 10px 10px 40px gray;
+    border-radius: 5%;
 }
 .area{
     background-color: rgb(211, 186, 186);
@@ -49,4 +50,43 @@ body{
 .big{
     background-color: rgb(243, 243, 189);
     text-align: left;
+}
+.containar img{
+    width: 100%;
+}
+.top-class{
+    width: 50%;
+    padding-left: 10%;
+    padding-right: 5%;
+    padding-top: 3%;
+}
+.address{
+    text-align: center;
+    margin: 50px 100px;
+    background-color: #fff4d6;
+    padding: 50px 0;
+    border-radius: 10px;
+}
+.mail-bar{
+    border: none;
+    color: #d9d9d9;
+    padding: 10px 0;
+
+}
+.subscribe-bottom{
+    background-color: #ff5959;
+    border: none;
+    padding: 10px 15px;
+}
+.quote{
+    text-align: center;
+    background-color: black;
+    padding: 10px;
+    margin: 10px;
+}
+#bottom{
+    color: #c55a5a;
+}
+#comot{
+    color: #d9d9d9;
 }
