@@ -31,7 +31,8 @@ body{
 }
 .top_low{
     text-align: center;
-    padding: 5%;
+    padding: 3%;
+    margin-top: 2%;
 }
 .flexibale{
     margin-right: 3%;
@@ -93,4 +94,22 @@ body{
 }
 .elemeant img{
     width: 20%;
+}
+.fiarebase{
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 2%;
+    box-shadow: 10px 10px 40px gray;
+    border-radius: 3%;
+    width: 100%;
+    font-size: 13px;
+
+}
+.drill{
+    text-align:left;
+    background-color: rgb(205, 219, 219);
+}
+.web{
+    text-align: left;
+    background-color: rgb(202, 201, 200);
 }
